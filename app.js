@@ -18,6 +18,7 @@ const html = `
   <body>
     <section>
       <h1>Joel Hello World</h1>
+      <h2>This is a test 2</h2>
     </section>
   </body>
 </html>
